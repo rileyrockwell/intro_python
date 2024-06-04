@@ -22,4 +22,4 @@ while current_savings < portion_down_payment * total_cost:
 
 print("Number of months: " + str(total_months))
 
-print(1, 2)
+print(1, 2, 3)
