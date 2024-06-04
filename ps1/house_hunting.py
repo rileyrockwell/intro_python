@@ -8,10 +8,6 @@ current_savings = 0
 # annual return: 0.04
 r = 0.04
 
-"""
-at the end of each month, your savings increase by the return on your investment, plus a percentage of your (monthly_salary) * (annual_salary / 12)
-"""
-
 monthly_salary = annual_salary / 12
 total_months = 0
 
